@@ -1,0 +1,215 @@
+body
+{
+  background-color: powderblue;
+  position: absolute;
+  top:   50px;
+  left : 100px;
+}
+
+.typeContaier
+{
+     height: 100px;
+     width:  700px;
+     position: absolute;
+     padding: 2rem ;
+     margin: 2rem;
+     background-color: white;
+     border-radius: 0.3rem;
+     position: absolute;
+     top: 50px;
+}
+
+
+.timer
+{
+  height: 2.6rem;
+  width:  4rem;
+  font-size: 200%;
+  position: absolute;
+  background-color: #3c4d5c;
+  border-radius: 0.2rem;
+  left: 650px;
+  align-content: center;
+}
+
+
+.inputBox
+{
+   position: absolute;
+   top: 165px;
+   width: 120%;
+   margin: 2rem;
+   display: flex;
+   left: -31px;
+}
+
+
+#inputField
+{
+  position: relative;
+  align-items: center;
+  font-size: 200%;
+  border-radius: 0.3rem;
+  font-family:'Roboto', monospace ;
+  color: #333;
+  heigh: 80px;
+  width: 600px;
+  left: 31px;
+  background-color: white;
+}
+
+#clock
+{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: white;
+  position: relative;
+  top:-13px;
+  left: 8px;
+  font-size: 70%;
+}
+
+.typingText
+{
+
+  height: 150px;
+
+
+
+  font-family: Times New Roman, Times, serif;
+  color: #333;
+  font-size: 200%;
+  position: relative;
+  align-self: center;
+  top: -58px;
+
+
+}
+
+
+#para
+{
+      height: 150px;
+      width:  730px;
+
+      font-family: 'Roboto', monospace ;
+      position: relative;
+      left: -15px;
+}
+
+.resultContainer
+{
+  height: 15rem;
+  width:  20rem;
+  position: absolute;
+  top: 80px;
+  left: 1000px;
+  border-radius: .3rem;
+  background-color: white;
+  border-color: #3c4d5c;
+  border-width: thin;
+  border-style: solid;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+
+#restart
+{
+   position: absolute;
+   left: 720px;
+   height: 2.6rem;
+   width: 3rem;
+   border-radius: 0.3rem;
+   border-style: solid;
+   color: #fff;
+   background-color: #428bca;
+   border-color: #357ebd;
+}
+
+
+p.resultContaier
+{
+  padding: 1rem;
+  margin: 3rem;
+
+}
+
+.stats
+{
+
+  height: 6rem;
+  width: 20.1rem;
+  position: absolute;
+  top: 200px;
+  left: 933px;
+}
+
+
+#acu
+{
+    font-size: 200%;
+     position: relative;
+    top: -2.8rem;
+    left: 10px;
+
+
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#kst
+{
+     font-size: 200%;
+     position: relative;
+
+     top: -2.8rem;
+     left: 10px;
+
+
+
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+#info
+{
+     height: 2.2rem;
+     width: 36rem;
+
+     background-color = rgb(154, 193, 255) ;
+
+      font-size: 150%;
+
+
+
+
+      color:#3c4d5c;
+
+
+      border-radius: 0.2rem;
+
+
+      position: absolute;
+      top: 580px;
+      left: 600px;
+
+}
+
+
+#jj
+{
+  padding: .2rem;
+  position: absolute;
+  top: -22px;
+
+font-family:'Roboto', monospace ;
+
+}
+
+
+#yourspeed
+{
+  position: absolute;
+  left: 4.2rem;
+  top:  1rem;
+}
