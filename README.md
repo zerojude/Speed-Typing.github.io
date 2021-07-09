@@ -1,4 +1,4 @@
-# Speed-Typing-Test WebApp
+# Typing-Test WebApp
                                                 
 
  A simple online Typing Test web application that displays the player's typing speed in words per minute as well as typing accuracy. The project was created entirely with HTML, CSS, and javascript, without the usage of any javascript libraries or frameworks. Typing Test layout was inpired from 10fastfingers.com. It was my very first web development project :)  
