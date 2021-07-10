@@ -16,7 +16,8 @@
 
 ## Some resources and basic advice on how to improve your typing speed
 
- -   To type, try to utilise all 10 fingers. To write quickly, master the QWERTY ten-finger method. 
+ -   To type, try to utilise all 10 fingers. 
+ -   To write quickly, master the QWERTY ten-finger method. 
  -   If you use QWERTY approach for 15 minutes every day for at least a month, your typing speed will definitely increase upto 50 words per minute. 
 
 
