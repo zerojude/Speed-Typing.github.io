@@ -39,6 +39,17 @@
 
   As of the day I'm writing this Readme file (9 July 2021), my maximum typing speed on monkeytype.com is 123 WPM, and my average typing speed is around 105 WPM.
   
+  ## My Best Typing Speed 
+  ------------
+  
+ 
+  
+  ![Typing_SPEED](https://user-images.githubusercontent.com/86411337/125561773-5d3c1b27-cfd5-4108-b806-bf6a53cfae3c.png)
+
+  
+  
+  
+  
   ### QWERY learning phase 
  
   I started with 22 WPM in October 2020 and spent 15 days studying QWERTY, which quickly increased my speed to 35 WPM.
