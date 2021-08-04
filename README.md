@@ -50,7 +50,7 @@
   
   
   
-  ### QWERY learning phase 
+  ### QWERTY learning phase 
  
   I started with 22 WPM in October 2020 and spent 15 days studying QWERTY, which quickly increased my speed to 35 WPM.
 
