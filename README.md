@@ -50,28 +50,6 @@
   
   
   
-  ### QWERTY learning phase 
- 
-  I started with 22 WPM in October 2020 and spent 15 days studying QWERTY, which quickly increased my speed to 35 WPM.
-
-  ### Practice-Practice-Practice-phase
-
-  There is no other phase of the learning curve for speed typing; it is just practise. So, from 35WPM to current Best, the only difference is Practice; after 15 days of learning QWERTY there is no new method to learn. 
-
   
-  ### This is the recording of my recent test on monkeytype
-
-   https://user-images.githubusercontent.com/86411337/125100064-50605800-e0f6-11eb-9b1f-798e7dfb9c60.mp4
-
-   </br>
-
- ### Author's Info
-
-- Facebook - [Aditya Raghav](https://www.facebook.com/aditya.raghav.9469/)
-- Linkedin - [Aditya Raghav](https://www.linkedin.com/in/aditya-raghav-99a510180/)
-- LeetCode - [zerojude](https://leetcode.com/zerojude/)
-- BinarySearch - [zerojude](https://binarysearch.com/@/zerojude)
-- GeeksforGeeks -[user_38qw](https://auth.geeksforgeeks.org/user/user_38qw/profile)
-- CodeChef -[zerojude](https://www.codechef.com/users/zerojude)
 
 
